@@ -3,5 +3,3 @@
 function calculateAverage(num1, num2) {
   return (num1 + num2) / 2;
 }
-let result = calculateAverage(10, 20);
-console.log(result);
